@@ -1,0 +1,2 @@
+We were given a fake classified data set from a company, where they hidden the feature column names but have given us the data and the target classes.
+The goal of this project is to use KNN to create a model that will directly predict a class for a new data point based of the given features.
