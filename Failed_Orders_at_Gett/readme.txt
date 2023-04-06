@@ -3,6 +3,7 @@ Scenario
 Gett, formerly GetTaxi, is an Israeli-developed technology platform devoted solely to corporate Ground Transportation Management (GTM). They have an app where customers can order taxis and drivers can accept them (offers). When a client clicks the Order button in the app, the matching system searches for the most relevant drivers and offers them the order. In this task, we'd like to look into some matching metrics for orders that didn't go as planned, i.e., the customer didn't end up getting a car.
 
 Assignment
+
 Build up distribution of orders according to reasons for failure: cancellations before and after driver assignment, and reasons for order rejection. Analyse the resulting plot. Which category has the highest number of orders?
 Plot the distribution of failed orders by hours. Is there a trend that certain hours have an abnormally high proportion of one category or another? What hours are the biggest fails? How can this be explained?
 Plot the average time to cancellation with and without driver, by the hour. If there are any outliers in the data, it would be better to remove them. Can we draw any conclusions from this plot?
